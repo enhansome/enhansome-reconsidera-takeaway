@@ -1,0 +1,998 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "操作系统"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ventoy",
+          "description": "Windows/Linux；制作免烧录多系统 USB 启动盘",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T04:51:23Z",
+            "owner": "ventoy",
+            "repo": "Ventoy",
+            "stars": 78683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rufus",
+          "description": "Windows；多功能 USB 格式化实用工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T11:33:58Z",
+            "owner": "pbatard",
+            "repo": "rufus",
+            "stars": 37273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Etcher",
+          "description": "Windows/macOS/Linux；操作系统映像烧录工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T09:25:23Z",
+            "owner": "balena-io",
+            "repo": "etcher",
+            "stars": 34147
+          }
+        }
+      ],
+      "title": "操作系统启动盘制作工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "代理工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "v2rayN",
+          "description": "Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T07:09:04Z",
+            "owner": "2dust",
+            "repo": "v2rayN",
+            "stars": 113689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "v2rayNG",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T07:03:26Z",
+            "owner": "2dust",
+            "repo": "v2rayNG",
+            "stars": 60985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClash",
+          "description": "路由器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T00:44:14Z",
+            "owner": "vernesong",
+            "repo": "OpenClash",
+            "stars": 27096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShellClash",
+          "description": "路由器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T18:23:36Z",
+            "owner": "juewuy",
+            "repo": "ShellCrash",
+            "stars": 13169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SagerNet",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-02-13T08:55:52Z",
+            "owner": "SagerNet",
+            "repo": "SagerNet",
+            "stars": 5744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clash for Windows",
+          "description": "Windows/macOS/Linux",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "ClashX",
+          "description": "；ClashX Pro – macOS",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Clash For Android",
+          "description": "Android",
+          "children": []
+        }
+      ],
+      "title": "开源翻墙代理客户端"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "隐私保护",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uBlock Origin",
+              "description": "拦截广告",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T17:11:49Z",
+                "owner": "gorhill",
+                "repo": "uBlock",
+                "stars": 66923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cookie AutoDelete",
+              "description": "关闭网页后自动删除 cookies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-12-26T09:54:25Z",
+                "owner": "Cookie-AutoDelete",
+                "repo": "Cookie-AutoDelete",
+                "stars": 2010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UserAgent Switcher",
+              "description": "模仿 user-agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T05:20:04Z",
+                "owner": "ray-lothian",
+                "repo": "UserAgent-Switcher",
+                "stars": 1487
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "视频强化",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cat Catch",
+              "description": "抓取网页视频，m3u8 解析下载合并工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-04T17:04:13Z",
+                "owner": "xifangczy",
+                "repo": "cat-catch",
+                "stars": 21309
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "浏览器代理",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwitchyOmega",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CoffeeScript",
+                "last_commit": "2024-12-27T12:00:30Z",
+                "owner": "FelisCatus",
+                "repo": "SwitchyOmega",
+                "stars": 22599
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RSS 订阅源查找",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RSSHub-Radar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-04-02T08:59:07Z",
+                "owner": "DIYgod",
+                "repo": "RSSHub-Radar",
+                "stars": 7299
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "用户脚本管理器",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Violentmonkey",
+              "description": "Firefox/Chromium",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T13:05:14Z",
+                "owner": "violentmonkey",
+                "repo": "violentmonkey",
+                "stars": 8728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Greasemonkey",
+              "description": "Firefox",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-06-03T15:19:53Z",
+                "owner": "greasemonkey",
+                "repo": "greasemonkey",
+                "stars": 2582
+              }
+            }
+          ]
+        }
+      ],
+      "title": "浏览器扩展"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "密码管理"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Aegis Authenticator",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-16T10:50:56Z",
+            "owner": "beemdevelopment",
+            "repo": "Aegis",
+            "stars": 12897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tofu",
+          "description": "iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-06-13T14:58:42Z",
+            "owner": "iKenndac",
+            "repo": "Tofu",
+            "stars": 536
+          }
+        }
+      ],
+      "title": "双因素验证器"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "信息备份"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wayback",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T11:12:02Z",
+            "owner": "wabarc",
+            "repo": "wayback",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "浏览器插件 Archiveror",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-18T07:20:42Z",
+            "owner": "rahiel",
+            "repo": "archiveror",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "命令行工具 archivenow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-23T17:39:56Z",
+            "owner": "oduwsdl",
+            "repo": "archivenow",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "网页存档辅助工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "RSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NetNewsWire",
+          "description": "macOS/iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T15:32:32Z",
+            "owner": "Ranchero-Software",
+            "repo": "NetNewsWire",
+            "stars": 10281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NewsBlur",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:51:37Z",
+            "owner": "samuelclay",
+            "repo": "NewsBlur",
+            "stars": 7583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReadYou",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T17:26:59Z",
+            "owner": "ReadYouApp",
+            "repo": "ReadYou",
+            "stars": 7412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raven Reader",
+          "description": "Windows/macOS/Linux",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2023-09-28T13:09:24Z",
+            "owner": "hello-efficiency-inc",
+            "repo": "raven-reader",
+            "stars": 2810
+          }
+        }
+      ],
+      "title": "RSS阅读器"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "效率工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sandboxie",
+          "description": "Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T21:21:07Z",
+            "owner": "sandboxie-plus",
+            "repo": "Sandboxie",
+            "stars": 19139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firejail",
+          "description": "Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T10:25:43Z",
+            "owner": "netblue30",
+            "repo": "firejail",
+            "stars": 7593
+          }
+        }
+      ],
+      "title": "沙盒工具"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Motrix",
+          "description": "Windows/macOS/Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:28:19Z",
+            "owner": "agalwood",
+            "repo": "Motrix",
+            "stars": 52454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seal",
+          "description": "Android",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-25T15:49:47Z",
+            "owner": "JunkFood02",
+            "repo": "Seal",
+            "stars": 28146
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "BitTorrent",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "客户端",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "qBittorrent",
+                  "description": "Windows/macOS/Linux",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-08-12T18:18:48Z",
+                    "owner": "qbittorrent",
+                    "repo": "qBittorrent",
+                    "stars": 39437
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "qBittorrent-Enhanced-Edition",
+                  "description": "Windows/macOS/Linux",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-07-19T17:30:23Z",
+                    "owner": "c0re100",
+                    "repo": "qBittorrent-Enhanced-Edition",
+                    "stars": 26376
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "BitTorrent Tracker",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "trackerslist",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-12T22:09:41Z",
+                    "owner": "ngosang",
+                    "repo": "trackerslist",
+                    "stars": 54848
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TrackersListCollection",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2026-08-13T00:19:48Z",
+                    "owner": "XIU2",
+                    "repo": "TrackersListCollection",
+                    "stars": 31960
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "下载工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "加密货币"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "网络资源"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "隐私与安全"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "YouTube",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Invidious",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Crystal",
+                "last_commit": "2026-08-12T06:26:12Z",
+                "owner": "iv-org",
+                "repo": "invidious",
+                "stars": 22597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeTube",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2026-08-12T19:51:34Z",
+                "owner": "FreeTubeApp",
+                "repo": "FreeTube",
+                "stars": 21637
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Twitter",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nitter",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Nitter 公共实例列表",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Nim",
+                    "last_commit": "2026-08-12T19:43:03Z",
+                    "owner": "zedeus",
+                    "repo": "nitter",
+                    "stars": 13433
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Nim",
+                "last_commit": "2026-08-12T19:43:03Z",
+                "owner": "zedeus",
+                "repo": "nitter",
+                "stars": 13433
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tiktok",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ProxiTok",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ProxiTok 公共实例列表",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "PHP",
+                    "last_commit": "2025-05-31T18:56:17Z",
+                    "owner": "pablouser1",
+                    "repo": "ProxiTok",
+                    "stars": 2134
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2025-05-31T18:56:17Z",
+                "owner": "pablouser1",
+                "repo": "ProxiTok",
+                "stars": 2134
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reddit",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Libreddit",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Libreddit 公共实例列表",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Rust",
+                    "last_commit": "2025-02-15T19:11:02Z",
+                    "owner": "libreddit",
+                    "repo": "libreddit",
+                    "stars": 5202
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2025-02-15T19:11:02Z",
+                "owner": "libreddit",
+                "repo": "libreddit",
+                "stars": 5202
+              }
+            }
+          ]
+        }
+      ],
+      "title": "隐私强化前端"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "日常办公"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SearX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T10:02:22Z",
+            "owner": "searx",
+            "repo": "searx",
+            "stars": 13535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whoogle",
+          "description": "Google 搜索的去 Javascript 前端",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Whoogle 公共实例列表",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T22:59:14Z",
+                "owner": "benbusby",
+                "repo": "whoogle-search",
+                "stars": 11596
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:59:14Z",
+            "owner": "benbusby",
+            "repo": "whoogle-search",
+            "stars": 11596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreX",
+          "description": "尊重隐私、支持搜索 Google 和 BT 种子站点的元搜索引擎",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LibreX 公共实例列表",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2024-08-01T09:31:27Z",
+                "owner": "hnhx",
+                "repo": "librex",
+                "stars": 843
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-01T09:31:27Z",
+            "owner": "hnhx",
+            "repo": "librex",
+            "stars": 843
+          }
+        }
+      ],
+      "title": "搜索引擎"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "文化资源"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-english-ebooks",
+          "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-07T21:45:41Z",
+            "owner": "hehonghui",
+            "repo": "awesome-english-ebooks",
+            "stars": 34794
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Z-Library",
+          "description": "电子书/期刊论文",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "book-searcher",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "学术资源"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Digital-Privacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-10-09T09:48:34Z",
+            "owner": "ffffffff0x",
+            "repo": "Digital-Privacy",
+            "stars": 4945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zebra Crossing",
+          "description": "/ 繁体中文版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T23:58:22Z",
+            "owner": "narwhalacademy",
+            "repo": "zebra-crossing",
+            "stars": 471
+          }
+        }
+      ],
+      "title": "信息安全参考资料"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-Linux-Software",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2026-05-03T08:15:18Z",
+            "owner": "luong-komorebi",
+            "repo": "Awesome-Linux-Software",
+            "stars": 25564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-foss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:55:44Z",
+            "owner": "offa",
+            "repo": "android-foss",
+            "stars": 10766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnleft",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-20T02:25:18Z",
+            "owner": "learnleft",
+            "repo": "learnleft.github.io",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "参考与鸣谢"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:34:23.770Z",
+    "original_repository": "reconsidera/awesome-reconsidera-takeaway",
+    "original_repository_sha": "9f0dcaa54f41eafd3decef9e73875447012e4bc5",
+    "enhanced_repository": "enhansome/enhansome-reconsidera-takeaway",
+    "enhanced_repository_description": null,
+    "title": "awesome-reconsidera-takeaway with stars"
+  }
+}
