@@ -62,7 +62,7 @@
                     "open_issues": 1037,
                     "owner": "ventoy",
                     "repo": "Ventoy",
-                    "stars": 79677,
+                    "stars": 79683,
                     "topics": [
                       "arm64",
                       "auto-install",
@@ -102,7 +102,7 @@
                     "open_issues": 8,
                     "owner": "pbatard",
                     "repo": "rufus",
-                    "stars": 37826,
+                    "stars": 37827,
                     "topics": [
                       "bios",
                       "boot",
@@ -144,7 +144,7 @@
                     "open_issues": 695,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34462,
+                    "stars": 34465,
                     "topics": [
                       "cross-platform",
                       "etcher",
@@ -213,10 +213,10 @@
                     "language": "C#",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-02T18:47:19Z",
-                    "open_issues": 18,
+                    "open_issues": 17,
                     "owner": "2dust",
                     "repo": "v2rayN",
-                    "stars": 117496,
+                    "stars": 117508,
                     "topics": [
                       "proxy",
                       "shadowsocks",
@@ -246,10 +246,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-01T09:27:00Z",
-                    "open_issues": 32,
+                    "open_issues": 31,
                     "owner": "2dust",
                     "repo": "v2rayNG",
-                    "stars": 63431,
+                    "stars": 63433,
                     "topics": [
                       "android",
                       "proxy",
@@ -314,7 +314,7 @@
                     "open_issues": 53,
                     "owner": "juewuy",
                     "repo": "ShellCrash",
-                    "stars": 13546,
+                    "stars": 13547,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:24:11.276Z"
@@ -363,10 +363,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-08-20T09:43:55Z",
-                    "open_issues": 662,
+                    "open_issues": 663,
                     "owner": "freefq",
                     "repo": "free",
-                    "stars": 42470,
+                    "stars": 42474,
                     "topics": [
                       "bulink",
                       "fanqiang",
@@ -417,7 +417,7 @@
                         "open_issues": 15,
                         "owner": "gorhill",
                         "repo": "uBlock",
-                        "stars": 68291,
+                        "stars": 68292,
                         "topics": [
                           "blocker",
                           "browser-extension",
@@ -513,7 +513,7 @@
                         "open_issues": 568,
                         "owner": "xifangczy",
                         "repo": "cat-catch",
-                        "stars": 22128,
+                        "stars": 22132,
                         "topics": [
                           "chrome",
                           "chrome-extension",
@@ -537,7 +537,7 @@
                     {
                       "node_type": "item",
                       "title": "SwitchyOmega",
-                      "description": null,
+                      "description": "FelisCatus/SwitchyOmega",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -565,7 +565,7 @@
                     {
                       "node_type": "item",
                       "title": "RSSHub-Radar",
-                      "description": null,
+                      "description": "DIYgod/RSSHub-Radar",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -612,7 +612,7 @@
                         "open_issues": 82,
                         "owner": "violentmonkey",
                         "repo": "violentmonkey",
-                        "stars": 8966,
+                        "stars": 8968,
                         "topics": [
                           "userscripts-support",
                           "violentmonkey",
@@ -664,7 +664,7 @@
                 {
                   "node_type": "item",
                   "title": "i2pd",
-                  "description": null,
+                  "description": "PurpleI2P/i2pd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -677,7 +677,7 @@
                     "open_issues": 162,
                     "owner": "PurpleI2P",
                     "repo": "i2pd",
-                    "stars": 4215,
+                    "stars": 4216,
                     "topics": [
                       "anonymity",
                       "c-plus-plus",
@@ -716,7 +716,7 @@
                     {
                       "node_type": "item",
                       "title": "StegCloak",
-                      "description": null,
+                      "description": "KuroLabs/stegcloak",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -761,7 +761,7 @@
                     {
                       "node_type": "item",
                       "title": "OpenStego",
-                      "description": null,
+                      "description": "syvaidya/openstego",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -803,7 +803,7 @@
                     {
                       "node_type": "item",
                       "title": "Vaultwarden",
-                      "description": null,
+                      "description": "dani-garcia/vaultwarden",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -813,10 +813,10 @@
                         "language": "Rust",
                         "license": "AGPL-3.0",
                         "last_commit": "2026-09-25T19:53:07Z",
-                        "open_issues": 102,
+                        "open_issues": 104,
                         "owner": "dani-garcia",
                         "repo": "vaultwarden",
-                        "stars": 68435,
+                        "stars": 68444,
                         "topics": [
                           "bitwarden",
                           "bitwarden-rs",
@@ -906,7 +906,7 @@
                 {
                   "node_type": "item",
                   "title": "Wayback",
-                  "description": null,
+                  "description": "wabarc/wayback",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -948,7 +948,7 @@
                 {
                   "node_type": "item",
                   "title": "浏览器插件 Archiveror",
-                  "description": null,
+                  "description": "rahiel/archiveror",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -980,7 +980,7 @@
                 {
                   "node_type": "item",
                   "title": "命令行工具 archivenow",
-                  "description": null,
+                  "description": "oduwsdl/archivenow",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1076,11 +1076,11 @@
                     "id": 91977145,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T18:50:22Z",
-                    "open_issues": 646,
+                    "last_commit": "2026-10-03T03:53:49Z",
+                    "open_issues": 643,
                     "owner": "Ranchero-Software",
                     "repo": "NetNewsWire",
-                    "stars": 10438,
+                    "stars": 10440,
                     "topics": [
                       "feed-reader",
                       "ios",
@@ -1141,7 +1141,7 @@
                     "open_issues": 477,
                     "owner": "ReadYouApp",
                     "repo": "ReadYou",
-                    "stars": 7566,
+                    "stars": 7568,
                     "topics": [
                       "android",
                       "compose",
@@ -1245,11 +1245,11 @@
                     "id": 127769231,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-03T00:21:20Z",
+                    "last_commit": "2026-10-03T02:42:26Z",
                     "open_issues": 190,
                     "owner": "DIYgod",
                     "repo": "RSSHub",
-                    "stars": 46394,
+                    "stars": 46395,
                     "topics": [
                       "bilibili",
                       "douban",
@@ -1352,7 +1352,7 @@
                     "open_issues": 527,
                     "owner": "netblue30",
                     "repo": "firejail",
-                    "stars": 7685,
+                    "stars": 7686,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1380,7 +1380,7 @@
                     "open_issues": 102,
                     "owner": "safing",
                     "repo": "portmaster",
-                    "stars": 13864,
+                    "stars": 13865,
                     "topics": [
                       "application-firewall",
                       "dns",
@@ -1420,7 +1420,7 @@
                     "open_issues": 169,
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 125020,
+                    "stars": 125033,
                     "topics": [
                       "android",
                       "anydesk",
@@ -1527,7 +1527,7 @@
                         "open_issues": 211,
                         "owner": "rime",
                         "repo": "squirrel",
-                        "stars": 6412,
+                        "stars": 6413,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1600,11 +1600,11 @@
                         "id": 8986217,
                         "language": "Lua",
                         "license": "AGPL-3.0",
-                        "last_commit": "2026-10-02T23:55:20Z",
-                        "open_issues": 1374,
+                        "last_commit": "2026-10-03T04:47:00Z",
+                        "open_issues": 1375,
                         "owner": "koreader",
                         "repo": "koreader",
-                        "stars": 30063,
+                        "stars": 30064,
                         "topics": [
                           "cbz",
                           "djvu",
@@ -1718,7 +1718,7 @@
                         "open_issues": 536,
                         "owner": "foobnix",
                         "repo": "LibreraReader",
-                        "stars": 4867,
+                        "stars": 4866,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1744,11 +1744,11 @@
                     "id": 162279822,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:59:42Z",
+                    "last_commit": "2026-10-03T02:30:04Z",
                     "open_issues": 140,
                     "owner": "agalwood",
                     "repo": "Motrix",
-                    "stars": 56036,
+                    "stars": 56042,
                     "topics": [
                       "aria2",
                       "bt",
@@ -1781,7 +1781,7 @@
                     "open_issues": 729,
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 29386,
+                    "stars": 29389,
                     "topics": [
                       "android",
                       "f-droid",
@@ -1818,10 +1818,10 @@
                             "language": "C++",
                             "license": "NOASSERTION",
                             "last_commit": "2026-10-01T10:10:16Z",
-                            "open_issues": 2736,
+                            "open_issues": 2740,
                             "owner": "qbittorrent",
                             "repo": "qBittorrent",
-                            "stars": 40512,
+                            "stars": 40517,
                             "topics": [
                               "bittorrent",
                               "bittorrent-client",
@@ -1849,7 +1849,7 @@
                             "open_issues": 162,
                             "owner": "c0re100",
                             "repo": "qBittorrent-Enhanced-Edition",
-                            "stars": 26701,
+                            "stars": 26699,
                             "topics": [
                               "bittorrent",
                               "bittorrent-client"
@@ -1867,7 +1867,7 @@
                         {
                           "node_type": "item",
                           "title": "trackerslist",
-                          "description": null,
+                          "description": "ngosang/trackerslist",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -1880,7 +1880,7 @@
                             "open_issues": 5,
                             "owner": "ngosang",
                             "repo": "trackerslist",
-                            "stars": 55257,
+                            "stars": 55258,
                             "topics": [
                               "bittorrent",
                               "bittorrent-tracker",
@@ -1904,7 +1904,7 @@
                         {
                           "node_type": "item",
                           "title": "TrackersListCollection",
-                          "description": null,
+                          "description": "XIU2/TrackersListCollection",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -1917,7 +1917,7 @@
                             "open_issues": 1,
                             "owner": "XIU2",
                             "repo": "TrackersListCollection",
-                            "stars": 32191,
+                            "stars": 32192,
                             "topics": [
                               "aria2",
                               "aria2-format-tracker",
@@ -1961,7 +1961,7 @@
                     "open_issues": 1071,
                     "owner": "thunderbird",
                     "repo": "thunderbird-android",
-                    "stars": 14056,
+                    "stars": 14057,
                     "topics": [
                       "android",
                       "communication",
@@ -2049,7 +2049,7 @@
                     "open_issues": 141,
                     "owner": "jitsi",
                     "repo": "jitsi-meet",
-                    "stars": 30036,
+                    "stars": 30038,
                     "topics": [
                       "debian",
                       "deep-video",
@@ -2082,7 +2082,7 @@
                 {
                   "node_type": "item",
                   "title": "unstoppableswap-gui",
-                  "description": null,
+                  "description": "eigenwallet/unstoppableswap-gui",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -2186,7 +2186,7 @@
                     {
                       "node_type": "item",
                       "title": "Invidious",
-                      "description": null,
+                      "description": "iv-org/invidious",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2199,7 +2199,7 @@
                         "open_issues": 494,
                         "owner": "iv-org",
                         "repo": "invidious",
-                        "stars": 24920,
+                        "stars": 24928,
                         "topics": [
                           "agplv3",
                           "hacktoberfest",
@@ -2216,7 +2216,7 @@
                     {
                       "node_type": "item",
                       "title": "FreeTube",
-                      "description": null,
+                      "description": "FreeTubeApp/FreeTube",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2229,7 +2229,7 @@
                         "open_issues": 297,
                         "owner": "FreeTubeApp",
                         "repo": "FreeTube",
-                        "stars": 22001,
+                        "stars": 22000,
                         "topics": [
                           "freetube",
                           "privacy",
@@ -2251,12 +2251,12 @@
                     {
                       "node_type": "item",
                       "title": "Nitter",
-                      "description": null,
+                      "description": "zedeus/nitter",
                       "children": [
                         {
                           "node_type": "item",
                           "title": "Nitter 公共实例列表",
-                          "description": null,
+                          "description": "zedeus/nitter",
                           "children": [],
                           "repo_info": {
                             "archived": true,
@@ -2313,12 +2313,12 @@
                     {
                       "node_type": "item",
                       "title": "ProxiTok",
-                      "description": null,
+                      "description": "pablouser1/ProxiTok",
                       "children": [
                         {
                           "node_type": "item",
                           "title": "ProxiTok 公共实例列表",
-                          "description": null,
+                          "description": "pablouser1/ProxiTok",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2375,12 +2375,12 @@
                     {
                       "node_type": "item",
                       "title": "Libreddit",
-                      "description": null,
+                      "description": "libreddit/libreddit",
                       "children": [
                         {
                           "node_type": "item",
                           "title": "Libreddit 公共实例列表",
-                          "description": null,
+                          "description": "libreddit/libreddit",
                           "children": [],
                           "repo_info": {
                             "archived": false,
@@ -2450,7 +2450,7 @@
                 {
                   "node_type": "item",
                   "title": "SearX",
-                  "description": null,
+                  "description": "searx/searx",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2482,7 +2482,7 @@
                     {
                       "node_type": "item",
                       "title": "Whoogle 公共实例列表",
-                      "description": null,
+                      "description": "benbusby/whoogle-search",
                       "children": [],
                       "repo_info": {
                         "archived": true,
@@ -2549,7 +2549,7 @@
                     {
                       "node_type": "item",
                       "title": "LibreX 公共实例列表",
-                      "description": null,
+                      "description": "hnhx/librex",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2635,7 +2635,7 @@
                     {
                       "node_type": "item",
                       "title": "Send",
-                      "description": null,
+                      "description": "timvisee/send",
                       "children": [
                         {
                           "node_type": "item",
@@ -2699,12 +2699,12 @@
                 {
                   "node_type": "item",
                   "title": "LibreTranslate",
-                  "description": null,
+                  "description": "LibreTranslate/LibreTranslate",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "LibreTranslate 公共实例列表",
-                      "description": null,
+                      "description": "LibreTranslate/LibreTranslate",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -2717,7 +2717,7 @@
                         "open_issues": 127,
                         "owner": "LibreTranslate",
                         "repo": "LibreTranslate",
-                        "stars": 16974,
+                        "stars": 16977,
                         "topics": [
                           "api",
                           "machine",
@@ -2740,7 +2740,7 @@
                     "open_issues": 127,
                     "owner": "LibreTranslate",
                     "repo": "LibreTranslate",
-                    "stars": 16974,
+                    "stars": 16977,
                     "topics": [
                       "api",
                       "machine",
@@ -2781,7 +2781,7 @@
                     "open_issues": 0,
                     "owner": "hehonghui",
                     "repo": "awesome-english-ebooks",
-                    "stars": 37340,
+                    "stars": 37359,
                     "topics": [
                       "download",
                       "ebooks",
@@ -2812,7 +2812,7 @@
         {
           "node_type": "item",
           "title": "Digital-Privacy",
-          "description": null,
+          "description": "ffffffff0x/Digital-Privacy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2875,7 +2875,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Linux-Software",
-          "description": null,
+          "description": "luong-komorebi/Awesome-Linux-Software",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2915,7 +2915,7 @@
         {
           "node_type": "item",
           "title": "android-foss",
-          "description": null,
+          "description": "offa/android-foss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2946,7 +2946,7 @@
         {
           "node_type": "item",
           "title": "learnleft",
-          "description": null,
+          "description": "learnleft/learnleft.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2969,7 +2969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:29:47.827Z",
+    "last_updated": "2026-10-03T05:08:34.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "《数字极权时代生存手记》的工具包",
