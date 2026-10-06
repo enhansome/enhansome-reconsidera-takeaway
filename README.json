@@ -59,10 +59,10 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-30T11:20:15Z",
-                    "open_issues": 1039,
+                    "open_issues": 1042,
                     "owner": "ventoy",
                     "repo": "Ventoy",
-                    "stars": 79729,
+                    "stars": 79739,
                     "topics": [
                       "arm64",
                       "auto-install",
@@ -102,7 +102,7 @@
                     "open_issues": 8,
                     "owner": "pbatard",
                     "repo": "rufus",
-                    "stars": 37860,
+                    "stars": 37867,
                     "topics": [
                       "bios",
                       "boot",
@@ -144,7 +144,7 @@
                     "open_issues": 697,
                     "owner": "balena-io",
                     "repo": "etcher",
-                    "stars": 34470,
+                    "stars": 34472,
                     "topics": [
                       "cross-platform",
                       "etcher",
@@ -213,10 +213,10 @@
                     "language": "C#",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-05T18:48:06Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "2dust",
                     "repo": "v2rayN",
-                    "stars": 117674,
+                    "stars": 117695,
                     "topics": [
                       "proxy",
                       "shadowsocks",
@@ -245,11 +245,11 @@
                     "id": 186733095,
                     "language": "Kotlin",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T09:27:00Z",
-                    "open_issues": 36,
+                    "last_commit": "2026-10-06T07:32:20Z",
+                    "open_issues": 27,
                     "owner": "2dust",
                     "repo": "v2rayNG",
-                    "stars": 63541,
+                    "stars": 63554,
                     "topics": [
                       "android",
                       "proxy",
@@ -279,8 +279,8 @@
                     "id": 189256120,
                     "language": "HTML",
                     "license": "MIT",
-                    "last_commit": "2026-10-06T01:14:42Z",
-                    "open_issues": 67,
+                    "last_commit": "2026-10-06T05:00:50Z",
+                    "open_issues": 66,
                     "owner": "vernesong",
                     "repo": "OpenClash",
                     "stars": 27690,
@@ -314,7 +314,7 @@
                     "open_issues": 54,
                     "owner": "juewuy",
                     "repo": "ShellCrash",
-                    "stars": 13554,
+                    "stars": 13559,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:24:11.276Z"
@@ -335,7 +335,7 @@
                     "open_issues": 103,
                     "owner": "SagerNet",
                     "repo": "SagerNet",
-                    "stars": 5730,
+                    "stars": 5729,
                     "topics": [
                       "android",
                       "anti-censorship"
@@ -366,7 +366,7 @@
                     "open_issues": 675,
                     "owner": "freefq",
                     "repo": "free",
-                    "stars": 42539,
+                    "stars": 42553,
                     "topics": [
                       "bulink",
                       "fanqiang",
@@ -417,7 +417,7 @@
                         "open_issues": 15,
                         "owner": "gorhill",
                         "repo": "uBlock",
-                        "stars": 68354,
+                        "stars": 68358,
                         "topics": [
                           "blocker",
                           "browser-extension",
@@ -510,10 +510,10 @@
                         "language": "JavaScript",
                         "license": "GPL-3.0",
                         "last_commit": "2026-10-01T10:40:13Z",
-                        "open_issues": 569,
+                        "open_issues": 570,
                         "owner": "xifangczy",
                         "repo": "cat-catch",
-                        "stars": 22164,
+                        "stars": 22166,
                         "topics": [
                           "chrome",
                           "chrome-extension",
@@ -550,7 +550,7 @@
                         "open_issues": 814,
                         "owner": "FelisCatus",
                         "repo": "SwitchyOmega",
-                        "stars": 22610,
+                        "stars": 22609,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -578,7 +578,7 @@
                         "open_issues": 71,
                         "owner": "DIYgod",
                         "repo": "RSSHub-Radar",
-                        "stars": 7355,
+                        "stars": 7356,
                         "topics": [
                           "browser-extension",
                           "chrome-extension",
@@ -612,7 +612,7 @@
                         "open_issues": 83,
                         "owner": "violentmonkey",
                         "repo": "violentmonkey",
-                        "stars": 8977,
+                        "stars": 8978,
                         "topics": [
                           "userscripts-support",
                           "violentmonkey",
@@ -673,8 +673,8 @@
                     "id": 12522239,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-10-06T01:20:42Z",
-                    "open_issues": 163,
+                    "last_commit": "2026-10-06T02:32:07Z",
+                    "open_issues": 164,
                     "owner": "PurpleI2P",
                     "repo": "i2pd",
                     "stars": 4217,
@@ -774,7 +774,7 @@
                         "open_issues": 12,
                         "owner": "syvaidya",
                         "repo": "openstego",
-                        "stars": 1440,
+                        "stars": 1441,
                         "topics": [
                           "digital-watermarking",
                           "steganography"
@@ -816,7 +816,7 @@
                         "open_issues": 106,
                         "owner": "dani-garcia",
                         "repo": "vaultwarden",
-                        "stars": 68562,
+                        "stars": 68589,
                         "topics": [
                           "bitwarden",
                           "bitwarden-rs",
@@ -853,7 +853,7 @@
                     "open_issues": 127,
                     "owner": "beemdevelopment",
                     "repo": "Aegis",
-                    "stars": 13211,
+                    "stars": 13216,
                     "topics": [
                       "2fa",
                       "android",
@@ -961,7 +961,7 @@
                     "open_issues": 27,
                     "owner": "rahiel",
                     "repo": "archiveror",
-                    "stars": 458,
+                    "stars": 457,
                     "topics": [
                       "archiving",
                       "bookmark",
@@ -1076,11 +1076,11 @@
                     "id": 91977145,
                     "language": "Swift",
                     "license": "MIT",
-                    "last_commit": "2026-10-03T20:39:38Z",
-                    "open_issues": 645,
+                    "last_commit": "2026-10-06T04:40:06Z",
+                    "open_issues": 643,
                     "owner": "Ranchero-Software",
                     "repo": "NetNewsWire",
-                    "stars": 10450,
+                    "stars": 10449,
                     "topics": [
                       "feed-reader",
                       "ios",
@@ -1105,7 +1105,7 @@
                     "id": 101248,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T14:48:57Z",
+                    "last_commit": "2026-10-06T06:15:26Z",
                     "open_issues": 137,
                     "owner": "samuelclay",
                     "repo": "NewsBlur",
@@ -1138,10 +1138,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-11T17:26:59Z",
-                    "open_issues": 477,
+                    "open_issues": 476,
                     "owner": "ReadYouApp",
                     "repo": "ReadYou",
-                    "stars": 7576,
+                    "stars": 7578,
                     "topics": [
                       "android",
                       "compose",
@@ -1226,7 +1226,7 @@
                         "open_issues": 71,
                         "owner": "DIYgod",
                         "repo": "RSSHub-Radar",
-                        "stars": 7355,
+                        "stars": 7356,
                         "topics": [
                           "browser-extension",
                           "chrome-extension",
@@ -1245,11 +1245,11 @@
                     "id": 127769231,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-05T15:20:40Z",
-                    "open_issues": 193,
+                    "last_commit": "2026-10-06T08:19:18Z",
+                    "open_issues": 197,
                     "owner": "DIYgod",
                     "repo": "RSSHub",
-                    "stars": 46420,
+                    "stars": 46421,
                     "topics": [
                       "bilibili",
                       "douban",
@@ -1300,10 +1300,10 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-05T17:32:00Z",
-                    "open_issues": 207,
+                    "open_issues": 208,
                     "owner": "freedomofpress",
                     "repo": "dangerzone",
-                    "stars": 5778,
+                    "stars": 5777,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1328,10 +1328,10 @@
                     "language": "C",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-05T01:36:41Z",
-                    "open_issues": 760,
+                    "open_issues": 761,
                     "owner": "sandboxie-plus",
                     "repo": "Sandboxie",
-                    "stars": 19617,
+                    "stars": 19624,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1376,11 +1376,11 @@
                     "id": 157402758,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T15:04:14Z",
+                    "last_commit": "2026-10-06T10:00:40Z",
                     "open_issues": 103,
                     "owner": "safing",
                     "repo": "portmaster",
-                    "stars": 13884,
+                    "stars": 13882,
                     "topics": [
                       "application-firewall",
                       "dns",
@@ -1416,11 +1416,11 @@
                     "id": 299354207,
                     "language": "Rust",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-05T14:21:36Z",
-                    "open_issues": 179,
+                    "last_commit": "2026-10-06T09:17:09Z",
+                    "open_issues": 180,
                     "owner": "rustdesk",
                     "repo": "rustdesk",
-                    "stars": 125201,
+                    "stars": 125229,
                     "topics": [
                       "android",
                       "anydesk",
@@ -1464,11 +1464,11 @@
                     "id": 14712850,
                     "language": "Go",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-10-06T01:23:31Z",
-                    "open_issues": 389,
+                    "last_commit": "2026-10-06T09:10:30Z",
+                    "open_issues": 388,
                     "owner": "syncthing",
                     "repo": "syncthing",
-                    "stars": 89171,
+                    "stars": 89178,
                     "topics": [
                       "go",
                       "p2p",
@@ -1503,10 +1503,10 @@
                         "language": "C++",
                         "license": "GPL-3.0",
                         "last_commit": "2026-08-18T09:52:00Z",
-                        "open_issues": 271,
+                        "open_issues": 272,
                         "owner": "rime",
                         "repo": "weasel",
-                        "stars": 8112,
+                        "stars": 8117,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1527,7 +1527,7 @@
                         "open_issues": 212,
                         "owner": "rime",
                         "repo": "squirrel",
-                        "stars": 6419,
+                        "stars": 6420,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1600,11 +1600,11 @@
                         "id": 8986217,
                         "language": "Lua",
                         "license": "AGPL-3.0",
-                        "last_commit": "2026-10-06T00:42:31Z",
-                        "open_issues": 1371,
+                        "last_commit": "2026-10-06T09:07:15Z",
+                        "open_issues": 1370,
                         "owner": "koreader",
                         "repo": "koreader",
-                        "stars": 30125,
+                        "stars": 30129,
                         "topics": [
                           "cbz",
                           "djvu",
@@ -1642,11 +1642,11 @@
                         "id": 245049028,
                         "language": "JavaScript",
                         "license": "AGPL-3.0",
-                        "last_commit": "2026-10-05T11:18:18Z",
-                        "open_issues": 272,
+                        "last_commit": "2026-10-06T09:27:59Z",
+                        "open_issues": 271,
                         "owner": "koodo-reader",
                         "repo": "koodo-reader",
-                        "stars": 28412,
+                        "stars": 28413,
                         "topics": [
                           "book",
                           "cb7",
@@ -1686,7 +1686,7 @@
                         "open_issues": 322,
                         "owner": "johnfactotum",
                         "repo": "foliate",
-                        "stars": 8776,
+                        "stars": 8779,
                         "topics": [
                           "azw",
                           "azw3",
@@ -1718,7 +1718,7 @@
                         "open_issues": 539,
                         "owner": "foobnix",
                         "repo": "LibreraReader",
-                        "stars": 4874,
+                        "stars": 4877,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T05:24:11.276Z"
@@ -1744,11 +1744,11 @@
                     "id": 162279822,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-04T03:34:42Z",
+                    "last_commit": "2026-10-06T10:18:54Z",
                     "open_issues": 148,
                     "owner": "agalwood",
                     "repo": "Motrix",
-                    "stars": 56116,
+                    "stars": 56133,
                     "topics": [
                       "aria2",
                       "bt",
@@ -1778,10 +1778,10 @@
                     "language": "Kotlin",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-25T15:35:51Z",
-                    "open_issues": 733,
+                    "open_issues": 732,
                     "owner": "JunkFood02",
                     "repo": "Seal",
-                    "stars": 29474,
+                    "stars": 29483,
                     "topics": [
                       "android",
                       "f-droid",
@@ -1818,10 +1818,10 @@
                             "language": "C++",
                             "license": "NOASSERTION",
                             "last_commit": "2026-10-05T12:34:24Z",
-                            "open_issues": 2727,
+                            "open_issues": 2729,
                             "owner": "qbittorrent",
                             "repo": "qBittorrent",
-                            "stars": 40584,
+                            "stars": 40596,
                             "topics": [
                               "bittorrent",
                               "bittorrent-client",
@@ -1849,7 +1849,7 @@
                             "open_issues": 162,
                             "owner": "c0re100",
                             "repo": "qBittorrent-Enhanced-Edition",
-                            "stars": 26728,
+                            "stars": 26734,
                             "topics": [
                               "bittorrent",
                               "bittorrent-client"
@@ -1877,10 +1877,10 @@
                             "language": null,
                             "license": "GPL-2.0",
                             "last_commit": "2026-10-05T22:09:41Z",
-                            "open_issues": 5,
+                            "open_issues": 6,
                             "owner": "ngosang",
                             "repo": "trackerslist",
-                            "stars": 55274,
+                            "stars": 55277,
                             "topics": [
                               "bittorrent",
                               "bittorrent-tracker",
@@ -1917,7 +1917,7 @@
                             "open_issues": 1,
                             "owner": "XIU2",
                             "repo": "TrackersListCollection",
-                            "stars": 32204,
+                            "stars": 32206,
                             "topics": [
                               "aria2",
                               "aria2-format-tracker",
@@ -1999,7 +1999,7 @@
                         "open_issues": 100,
                         "owner": "berty",
                         "repo": "berty",
-                        "stars": 9312,
+                        "stars": 9311,
                         "topics": [
                           "android",
                           "berty",
@@ -2049,7 +2049,7 @@
                     "open_issues": 146,
                     "owner": "jitsi",
                     "repo": "jitsi-meet",
-                    "stars": 30044,
+                    "stars": 30046,
                     "topics": [
                       "debian",
                       "deep-video",
@@ -2164,7 +2164,7 @@
                     "open_issues": 552,
                     "owner": "net4people",
                     "repo": "bbs",
-                    "stars": 5323,
+                    "stars": 5322,
                     "topics": [
                       "censorship-circumvention"
                     ]
@@ -2199,7 +2199,7 @@
                         "open_issues": 495,
                         "owner": "iv-org",
                         "repo": "invidious",
-                        "stars": 25126,
+                        "stars": 25133,
                         "topics": [
                           "agplv3",
                           "hacktoberfest",
@@ -2225,11 +2225,11 @@
                         "id": 123220152,
                         "language": "Vue",
                         "license": "AGPL-3.0",
-                        "last_commit": "2026-10-05T13:00:34Z",
+                        "last_commit": "2026-10-06T09:59:26Z",
                         "open_issues": 300,
                         "owner": "FreeTubeApp",
                         "repo": "FreeTube",
-                        "stars": 22011,
+                        "stars": 22010,
                         "topics": [
                           "freetube",
                           "privacy",
@@ -2269,7 +2269,7 @@
                             "open_issues": 153,
                             "owner": "zedeus",
                             "repo": "nitter",
-                            "stars": 14483,
+                            "stars": 14482,
                             "topics": [
                               "nim",
                               "privacy",
@@ -2292,7 +2292,7 @@
                         "open_issues": 153,
                         "owner": "zedeus",
                         "repo": "nitter",
-                        "stars": 14483,
+                        "stars": 14482,
                         "topics": [
                           "nim",
                           "privacy",
@@ -2653,7 +2653,7 @@
                             "open_issues": 0,
                             "owner": "timvisee",
                             "repo": "send-instances",
-                            "stars": 1138,
+                            "stars": 1139,
                             "topics": [
                               "firefox-send",
                               "hacktoberfest",
@@ -2717,7 +2717,7 @@
                         "open_issues": 127,
                         "owner": "LibreTranslate",
                         "repo": "LibreTranslate",
-                        "stars": 16990,
+                        "stars": 16993,
                         "topics": [
                           "api",
                           "machine",
@@ -2740,7 +2740,7 @@
                     "open_issues": 127,
                     "owner": "LibreTranslate",
                     "repo": "LibreTranslate",
-                    "stars": 16990,
+                    "stars": 16993,
                     "topics": [
                       "api",
                       "machine",
@@ -2781,7 +2781,7 @@
                     "open_issues": 0,
                     "owner": "hehonghui",
                     "repo": "awesome-english-ebooks",
-                    "stars": 37487,
+                    "stars": 37508,
                     "topics": [
                       "download",
                       "ebooks",
@@ -2825,7 +2825,7 @@
             "open_issues": 0,
             "owner": "ffffffff0x",
             "repo": "Digital-Privacy",
-            "stars": 4944,
+            "stars": 4943,
             "topics": [
               "ffffffff0x",
               "osint",
@@ -2888,7 +2888,7 @@
             "open_issues": 0,
             "owner": "luong-komorebi",
             "repo": "Awesome-Linux-Software",
-            "stars": 25620,
+            "stars": 25619,
             "topics": [
               "applications",
               "awesome-list",
@@ -2925,10 +2925,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T18:24:32Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "offa",
             "repo": "android-foss",
-            "stars": 11346,
+            "stars": 11348,
             "topics": [
               "android",
               "android-apps",
@@ -2969,7 +2969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:45:36.463Z",
+    "last_updated": "2026-10-06T10:27:49.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "《数字极权时代生存手记》的工具包",
