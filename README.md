@@ -115,24 +115,24 @@
 
 #### 操作系统启动盘制作工具
 
-* [Ventoy](https://github.com/ventoy/Ventoy) ⭐ 81,234 | 🐛 1,022 | 🌐 C | 📅 2026-11-24![Open-Source Software][oss icon] – Windows/Linux；制作免烧录多系统 USB 启动盘
-* [Rufus](https://github.com/pbatard/rufus) ⭐ 38,518 | 🐛 12 | 🌐 C | 📅 2026-11-26![Open-Source Software][oss icon] – Windows；多功能 USB 格式化实用工具
-* [Etcher](https://github.com/balena-io/etcher) ⭐ 34,777 | 🐛 708 | 🌐 TypeScript | 📅 2026-10-23![Open-Source Software][oss icon] – Windows/macOS/Linux；操作系统映像烧录工具
+* [Ventoy](https://github.com/ventoy/Ventoy) ⭐ 81,169 | 🐛 1,023 | 🌐 C | 📅 2026-11-24![Open-Source Software][oss icon] – Windows/Linux；制作免烧录多系统 USB 启动盘
+* [Rufus](https://github.com/pbatard/rufus) ⭐ 38,526 | 🐛 12 | 🌐 C | 📅 2026-11-26![Open-Source Software][oss icon] – Windows；多功能 USB 格式化实用工具
+* [Etcher](https://github.com/balena-io/etcher) ⭐ 34,781 | 🐛 708 | 🌐 TypeScript | 📅 2026-10-23![Open-Source Software][oss icon] – Windows/macOS/Linux；操作系统映像烧录工具
 
 ### 代理工具
 
 #### 免费开源的代理工具
 
-* [迷雾通](https://geph.io)![Open-Source Software][oss icon] | [GitHub 免翻墙镜像](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89) ⭐ 3,032 | 🐛 5 | 🌐 Rust | 📅 2025-02-13 – Windows/macOS/Linux/Android/iOS
+* [迷雾通](https://geph.io)![Open-Source Software][oss icon] | [GitHub 免翻墙镜像](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89) ⭐ 3,033 | 🐛 5 | 🌐 Rust | 📅 2025-02-13 – Windows/macOS/Linux/Android/iOS
 * [nthLink](https://www.nthlink.com/)![Open-Source Software][oss icon] | [AWS 免翻墙下载链接](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/download.html) – Windows/macOS/Android/iOS
 * [Psiphon](https://psiphon.ca/zh/download.html)![Open-Source Software][oss icon] – Windows/macOS/Android/iOS
 
 #### 开源翻墙代理客户端
 
-* [v2rayN](https://github.com/2dust/v2rayN) ⭐ 121,538 | 🐛 13 | 🌐 C# | 📅 2026-11-27![Open-Source Software][oss icon] – Windows
-* [v2rayNG](https://github.com/2dust/v2rayNG) ⭐ 66,626 | 🐛 53 | 🌐 Kotlin | 📅 2026-11-27![Open-Source Software][oss icon] – Android
-* [OpenClash](https://github.com/vernesong/OpenClash) ⭐ 28,380 | 🐛 67 | 🌐 JavaScript | 📅 2026-11-26![Open-Source Software][oss icon] – 路由器
-* [ShellClash](https://github.com/juewuy/ShellClash) ⭐ 13,718 | 🐛 49 | 🌐 Shell | 📅 2026-11-26![Open-Source Software][oss icon] – 路由器
+* [v2rayN](https://github.com/2dust/v2rayN) ⭐ 121,603 | 🐛 27 | 🌐 C# | 📅 2026-11-27![Open-Source Software][oss icon] – Windows
+* [v2rayNG](https://github.com/2dust/v2rayNG) ⭐ 66,689 | 🐛 29 | 🌐 Kotlin | 📅 2026-11-27![Open-Source Software][oss icon] – Android
+* [OpenClash](https://github.com/vernesong/OpenClash) ⭐ 28,385 | 🐛 65 | 🌐 JavaScript | 📅 2026-11-27![Open-Source Software][oss icon] – 路由器
+* [ShellClash](https://github.com/juewuy/ShellClash) ⭐ 13,718 | 🐛 49 | 🌐 Shell | 📅 2026-11-27![Open-Source Software][oss icon] – 路由器
 * [SagerNet](https://github.com/SagerNet/SagerNet) ⚠️ Archived![Open-Source Software][oss icon] – Android
 * [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)![Open-Source Software][oss icon] – Windows/macOS/Linux
 * [ClashX](https://github.com/yichengchen/clashX)![Open-Source Software][oss icon]；[ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public) – macOS
@@ -142,7 +142,7 @@
 
 #### 免费节点
 
-* [freefq/free](https://github.com/freefq/free) ⭐ 43,532 | 🐛 620 | 📅 2024-08-20 **免费节点有风险，非必要不推荐使用！**
+* [freefq/free](https://github.com/freefq/free) ⭐ 43,545 | 🐛 615 | 📅 2024-08-20 **免费节点有风险，非必要不推荐使用！**
 
 ### 浏览器
 
@@ -155,24 +155,24 @@
 #### 浏览器扩展
 
 * 隐私保护
-  * [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 69,732 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-26![Open-Source Software][oss icon] – 拦截广告
+  * [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 69,791 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-27![Open-Source Software][oss icon] – 拦截广告
   * [Cookie AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete#installation) ⭐ 2,022 | 🐛 171 | 🌐 TypeScript | 📅 2025-12-26![Open-Source Software][oss icon] – 关闭网页后自动删除 cookies
-  * [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) ⭐ 1,555 | 🐛 152 | 🌐 JavaScript | 📅 2026-11-26![Open-Source Software][oss icon] – 模仿 user-agent
+  * [UserAgent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) ⭐ 1,556 | 🐛 152 | 🌐 JavaScript | 📅 2026-11-26![Open-Source Software][oss icon] – 模仿 user-agent
   * [NoScript](https://noscript.net/)![Open-Source Software][oss icon] – 拦截 JavaScript 脚本
   * [Decentraleyes](https://git.synz.io/Synzvato/decentraleyes)![Open-Source Software][oss icon] – 防止 CDN 跟踪
   * [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls/-/blob/master/README.md)![Open-Source Software][oss icon] – 自动清除链接中的追踪参数
 * 隐私强化前端重定向
   * [LibRedirect](https://libredirect.github.io/)![Open-Source Software][oss icon]
 * 视频强化
-  * [Cat Catch](https://github.com/xifangczy/cat-catch) ⭐ 23,227 | 🐛 599 | 🌐 JavaScript | 📅 2026-11-20![Open-Source Software][oss icon] – 抓取网页视频，m3u8 解析下载合并工具
+  * [Cat Catch](https://github.com/xifangczy/cat-catch) ⭐ 23,250 | 🐛 599 | 🌐 JavaScript | 📅 2026-11-20![Open-Source Software][oss icon] – 抓取网页视频，m3u8 解析下载合并工具
   * [SponsorBlock for YouTube](https://sponsor.ajay.app/)![Open-Source Software][oss icon] – YouTube 去广告
 * 浏览器代理
-  * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) ⭐ 22,608 | 🐛 814 | 🌐 CoffeeScript | 📅 2024-12-27![Open-Source Software][oss icon]
+  * [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) ⭐ 22,607 | 🐛 814 | 🌐 CoffeeScript | 📅 2024-12-27![Open-Source Software][oss icon]
 * RSS 订阅源查找
-  * [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,436 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-26![Open-Source Software][oss icon]
+  * [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,437 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon]
 * 用户脚本管理器
-  * [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,248 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-26![Open-Source Software][oss icon] – Firefox/Chromium
-  * [Greasemonkey](https://github.com/greasemonkey/greasemonkey/) ⭐ 2,615 | 🐛 33 | 🌐 JavaScript | 📅 2026-06-03![Open-Source Software][oss icon] – Firefox
+  * [Violentmonkey](https://github.com/violentmonkey/violentmonkey) ⭐ 9,256 | 🐛 87 | 🌐 JavaScript | 📅 2026-11-27![Open-Source Software][oss icon] – Firefox/Chromium
+  * [Greasemonkey](https://github.com/greasemonkey/greasemonkey/) ⭐ 2,615 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03![Open-Source Software][oss icon] – Firefox
 
 #### 浏览器安全性检测
 
@@ -192,7 +192,7 @@
 * [Tor Browser](https://www.torproject.org/download/)![Open-Source Software][oss icon] – Windows/macOS/Linux/Android
 * [OnionShare](https://onionshare.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux；匿名文件传输、洋葱网站托管、匿名聊天室
 * [I2P](https://geti2p.net/)![Open-Source Software][oss icon]
-  * [i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,284 | 🐛 164 | 🌐 C++ | 📅 2026-11-26![Open-Source Software][oss icon]
+  * [i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,286 | 🐛 163 | 🌐 C++ | 📅 2026-11-27![Open-Source Software][oss icon]
 
 ### 加密工具
 
@@ -203,7 +203,7 @@
 * [Cryptomator](https://cryptomator.org) – Windows/macOS/Linux/Android/iOS；网盘的客户端加密工具
 * 隐写术工具
   * 零宽度字符
-    * [StegCloak](https://github.com/KuroLabs/stegcloak) ⭐ 3,938 | 🐛 14 | 🌐 JavaScript | 📅 2024-10-01![Open-Source Software][oss icon]
+    * [StegCloak](https://github.com/KuroLabs/stegcloak) ⭐ 3,939 | 🐛 14 | 🌐 JavaScript | 📅 2024-10-01![Open-Source Software][oss icon]
     * [steganographr](https://github.com/neatnik/steganographr)![Open-Source Software][oss icon]
       * [实例](https://neatnik.net/steganographr)
   * 图片隐写术
@@ -214,7 +214,7 @@
 #### 密码管理器
 
 * [Bitwarden](https://bitwarden.com/)![Open-Source Software][oss icon] – Windows/macOS/Linux/Android/iOS
-  * [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 71,630 | 🐛 70 | 🌐 Rust | 📅 2026-11-25
+  * [Vaultwarden](https://github.com/dani-garcia/vaultwarden) ⭐ 71,735 | 🐛 71 | 🌐 Rust | 📅 2026-11-25
 * [KeePass](https://keepass.info/)![Open-Source Software][oss icon] – Windows/Mono
   * [KeePassXC](https://keepassxc.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux
   * [KeePass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)![Open-Source Software][oss icon] - Android
@@ -222,7 +222,7 @@
 
 #### 双因素验证器
 
-* [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) ⭐ 13,648 | 🐛 120 | 🌐 Java | 📅 2026-11-24![Open-Source Software][oss icon] – Android
+* [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) ⭐ 13,655 | 🐛 120 | 🌐 Java | 📅 2026-11-27![Open-Source Software][oss icon] – Android
 * [Tofu](https://github.com/calleluks/Tofu) ⭐ 545 | 🐛 14 | 🌐 Swift | 📅 2026-11-22![Open-Source Software][oss icon] – iOS
 * [FreeOPT](https://freeotp.github.io)![Open-Source Software][oss icon] – iOS/Android
 
@@ -236,7 +236,7 @@
 
 #### 网页存档辅助工具
 
-* [Wayback](https://github.com/wabarc/wayback) ⭐ 2,259 | 🐛 65 | 🌐 Go | 📅 2026-11-26![Open-Source Software][oss icon]
+* [Wayback](https://github.com/wabarc/wayback) ⭐ 2,262 | 🐛 65 | 🌐 Go | 📅 2026-11-26![Open-Source Software][oss icon]
   * Wayback 公共实例
     * <https://wabarc.eu.org>
     * <https://initium.eu.org>
@@ -255,38 +255,38 @@
 
 #### RSS阅读器
 
-* [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,576 | 🐛 619 | 🌐 Swift | 📅 2026-11-26![Open-Source Software][oss icon] – macOS/iOS
-* [ReadYou](https://github.com/Ashinch/ReadYou) ⭐ 7,720 | 🐛 496 | 🌐 Kotlin | 📅 2026-08-11![Open-Source Software][oss icon] – Android
-* [NewsBlur](https://github.com/samuelclay/NewsBlur) ⭐ 7,700 | 🐛 137 | 🌐 HTML | 📅 2026-11-27![Open-Source Software][oss icon] – Android
+* [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,580 | 🐛 617 | 🌐 Swift | 📅 2026-11-27![Open-Source Software][oss icon] – macOS/iOS
+* [ReadYou](https://github.com/Ashinch/ReadYou) ⭐ 7,723 | 🐛 496 | 🌐 Kotlin | 📅 2026-08-11![Open-Source Software][oss icon] – Android
+* [NewsBlur](https://github.com/samuelclay/NewsBlur) ⭐ 7,702 | 🐛 136 | 🌐 HTML | 📅 2026-11-28![Open-Source Software][oss icon] – Android
 * [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader) ⚠️ Archived![Open-Source Software][oss icon] – Windows/macOS/Linux
 * [Thunderbird](https://www.thunderbird.net/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 * [NewsFlash](https://flathub.org/apps/details/com.gitlab.newsflash)![Open-Source Software][oss icon] – Linux
 
 #### RSS辅助工具
 
-* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,410 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon] – 为不支持 RSS 的网站生成 RSS feed
-  * [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,436 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-26![Open-Source Software][oss icon] – 嗅探 RSS 订阅源的浏览器插件
+* [RSSHub](https://github.com/DIYgod/RSSHub) ⭐ 47,434 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-28![Open-Source Software][oss icon] – 为不支持 RSS 的网站生成 RSS feed
+  * [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) ⭐ 7,437 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon] – 嗅探 RSS 订阅源的浏览器插件
 * [kill-the-newsletter](https://kill-the-newsletter.com/)![Open-Source Software][oss icon] – 将邮件订阅转换成 RSS 订阅
 
 ### 效率工具
 
 #### 元数据清除
 
-* [Dangerzone](https://github.com/freedomofpress/dangerzone) ⭐ 5,858 | 🐛 194 | 🌐 Python | 📅 2026-11-23![Open-Source Software][oss icon] – Windows/macOS/Linux
+* [Dangerzone](https://github.com/freedomofpress/dangerzone) ⭐ 5,860 | 🐛 194 | 🌐 Python | 📅 2026-11-23![Open-Source Software][oss icon] – Windows/macOS/Linux
 * [mat2](https://0xacab.org/jvoisin/mat2)![Open-Source Software][oss icon] | [Web](https://matweb.info/)
 * [ExifTool](https://exiftool.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 * [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)![Open-Source Software][oss icon] – Android
 
 #### 沙盒工具
 
-* [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) ⭐ 20,106 | 🐛 784 | 🌐 C++ | 📅 2026-11-25![Open-Source Software][oss icon] – Windows
-* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,754 | 🐛 526 | 🌐 C | 📅 2026-11-26![Open-Source Software][oss icon] – Linux
+* [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) ⭐ 20,119 | 🐛 787 | 🌐 C++ | 📅 2026-11-27![Open-Source Software][oss icon] – Windows
+* [Firejail](https://github.com/netblue30/firejail) ⭐ 7,754 | 🐛 527 | 🌐 C | 📅 2026-11-26![Open-Source Software][oss icon] – Linux
 * [Shelter](https://gitea.angry.im/PeterCxy/Shelter)![Open-Source Software][oss icon] – Android
 * [Insular](https://gitlab.com/secure-system/Insular)![Open-Source Software][oss icon] – Android
 
 #### 防火墙
 
-* [Portmaster](https://github.com/safing/portmaster) ⭐ 14,154 | 🐛 92 | 🌐 Go | 📅 2026-11-24![Open-Source Software][oss icon] – Windows/Linux
+* [Portmaster](https://github.com/safing/portmaster) ⭐ 14,163 | 🐛 93 | 🌐 Go | 📅 2026-11-27![Open-Source Software][oss icon] – Windows/Linux
 
 #### 网络流量分析
 
@@ -298,19 +298,19 @@
 
 #### 远程桌面
 
-* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 131,698 | 🐛 237 | 🌐 Rust | 📅 2026-11-26![Open-Source Software][oss icon] – Windows/macOS/Linux/Android/iOS
+* [RustDesk](https://github.com/rustdesk/rustdesk) ⭐ 131,848 | 🐛 239 | 🌐 Rust | 📅 2026-11-27![Open-Source Software][oss icon] – Windows/macOS/Linux/Android/iOS
 
 #### 文件同步
 
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,889 | 🐛 404 | 🌐 Go | 📅 2026-11-26![Open-Source Software][oss icon] – Windows/macOS/Linux/Android
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,932 | 🐛 404 | 🌐 Go | 📅 2026-11-26![Open-Source Software][oss icon] – Windows/macOS/Linux/Android
 
 #### 输入法
 
 * [Fcitx](http://fcitx-im.org/)![Open-Source Software][oss icon] – Linux/FreeBSD
 * [Rime](https://rime.im)![Open-Source Software][oss icon]
-  * 小狼毫 [Weasel](https://github.com/rime/weasel/) ⭐ 8,377 | 🐛 291 | 🌐 C++ | 📅 2026-10-31 – Windows
-  * 鼠鬚管 [Squirrel](https://github.com/rime/squirrel/) ⭐ 6,565 | 🐛 222 | 🌐 Swift | 📅 2026-11-27 – macOS
-  * [ibus-rime](https://github.com/rime/home/wiki/RimeWithIBus) ⭐ 5,037 | 🐛 498 | 🌐 HTML | 📅 2026-11-22 – Linux
+  * 小狼毫 [Weasel](https://github.com/rime/weasel/) ⭐ 8,380 | 🐛 290 | 🌐 C++ | 📅 2026-10-31 – Windows
+  * 鼠鬚管 [Squirrel](https://github.com/rime/squirrel/) ⭐ 6,566 | 🐛 223 | 🌐 Swift | 📅 2026-11-27 – macOS
+  * [ibus-rime](https://github.com/rime/home/wiki/RimeWithIBus) ⭐ 5,038 | 🐛 498 | 🌐 HTML | 📅 2026-11-22 – Linux
   * [fcitx-rime](https://github.com/fcitx/fcitx-rime) ⚠️ Archived – Linux
 
 #### PDF工具
@@ -323,10 +323,10 @@
 #### 电子书工具
 
 * 电子书阅读器
-  * [KOReader](https://github.com/koreader/koreader) ⭐ 31,348 | 🐛 1,399 | 🌐 Lua | 📅 2026-11-27![Open-Source Software][oss icon] – Linux/Android/Kindle
-  * [Koodo Reader](https://github.com/troyeguo/koodo-reader) ⭐ 28,998 | 🐛 276 | 🌐 JavaScript | 📅 2026-11-27![Open-Source Software][oss icon] – Windows/macOS/Linux/Web
-  * [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,900 | 🐛 347 | 🌐 JavaScript | 📅 2026-04-08![Open-Source Software][oss icon] – Linux
-  * [Librera Reader](https://github.com/foobnix/LibreraReader) ⭐ 5,088 | 🐛 543 | 🌐 C | 📅 2026-11-26![Open-Source Software][oss icon] – Android
+  * [KOReader](https://github.com/koreader/koreader) ⭐ 31,379 | 🐛 1,401 | 🌐 Lua | 📅 2026-11-27![Open-Source Software][oss icon] – Linux/Android/Kindle
+  * [Koodo Reader](https://github.com/troyeguo/koodo-reader) ⭐ 29,009 | 🐛 275 | 🌐 JavaScript | 📅 2026-11-28![Open-Source Software][oss icon] – Windows/macOS/Linux/Web
+  * [Foliate](https://github.com/johnfactotum/foliate) ⭐ 8,902 | 🐛 348 | 🌐 JavaScript | 📅 2026-04-08![Open-Source Software][oss icon] – Linux
+  * [Librera Reader](https://github.com/foobnix/LibreraReader) ⭐ 5,088 | 🐛 543 | 🌐 C | 📅 2026-11-27![Open-Source Software][oss icon] – Android
 * 电子书管理
   * [Calibre](https://calibre-ebook.com/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 
@@ -337,19 +337,19 @@
 
 #### 下载工具
 
-* [Motrix](https://github.com/agalwood/Motrix) ⭐ 58,875 | 🐛 160 | 🌐 TypeScript | 📅 2026-11-26![Open-Source Software][oss icon] – Windows/macOS/Linux
-* [Seal](https://github.com/JunkFood02/Seal) ⭐ 31,065 | 🐛 751 | 🌐 Kotlin | 📅 2026-11-25![Open-Source Software][oss icon] – Android
+* [Motrix](https://github.com/agalwood/Motrix) ⭐ 58,896 | 🐛 156 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon] – Windows/macOS/Linux
+* [Seal](https://github.com/JunkFood02/Seal) ⭐ 31,100 | 🐛 751 | 🌐 Kotlin | 📅 2026-11-25![Open-Source Software][oss icon] – Android
 * BitTorrent
   * 客户端
-    * [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 41,975 | 🐛 2,799 | 🌐 C++ | 📅 2026-11-24![Open-Source Software][oss icon] – Windows/macOS/Linux
-    * [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 27,080 | 🐛 167 | 🌐 C++ | 📅 2026-11-20![Open-Source Software][oss icon] – Windows/macOS/Linux
+    * [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 42,003 | 🐛 2,811 | 🌐 C++ | 📅 2026-11-24![Open-Source Software][oss icon] – Windows/macOS/Linux
+    * [qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) ⭐ 27,089 | 🐛 166 | 🌐 C++ | 📅 2026-11-27![Open-Source Software][oss icon] – Windows/macOS/Linux
   * BitTorrent Tracker
-    * [trackerslist](https://github.com/ngosang/trackerslist) ⭐ 55,819 | 🐛 6 | 📅 2026-11-26
-    * [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) ⭐ 32,450 | 🐛 2 | 📅 2026-11-27
+    * [trackerslist](https://github.com/ngosang/trackerslist) ⭐ 55,832 | 🐛 6 | 📅 2026-11-27
+    * [TrackersListCollection](https://github.com/XIU2/TrackersListCollection) ⭐ 32,460 | 🐛 2 | 📅 2026-11-28
 
 #### 邮箱客户端
 
-* [K-9 Mail](https://github.com/thundernest/k-9) ⭐ 14,298 | 🐛 1,108 | 🌐 Kotlin | 📅 2026-11-26![Open-Source Software][oss icon] – Android
+* [K-9 Mail](https://github.com/thundernest/k-9) ⭐ 14,308 | 🐛 1,108 | 🌐 Kotlin | 📅 2026-11-27![Open-Source Software][oss icon] – Android
 * [Thunderbird](https://www.thunderbird.net/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 
 #### 加密即时通讯
@@ -365,14 +365,14 @@
   * [Telegram](https://telegram.org/) – Windows/macOS/Linux/Web/iOS/Android 客户端开源；注册需手机号码；私密模式支持端对端加密；实时同步
   * [Signal](https://signal.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux/iOS/Android；注册需手机号码
 * 本地网络即时通讯工具
-  * [Berty](https://github.com/berty/berty) ⭐ 9,371 | 🐛 96 | 🌐 TypeScript | 📅 2026-11-26 – iOS/Android 默认端对端加密；P2P
+  * [Berty](https://github.com/berty/berty) ⭐ 9,372 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-27 – iOS/Android 默认端对端加密；P2P
   * [Briar](https://briarproject.org/) – Android
 * 加密短信
   * [Silence-Android](https://git.silence.dev/Silence/Silence-Android/)![Open-Source Software][oss icon] – Android；加密 SMS/MMS 短信
 
 #### 视频会议
 
-* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,299 | 🐛 269 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon] – iOS/Android/Web
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,303 | 🐛 283 | 🌐 TypeScript | 📅 2026-11-27![Open-Source Software][oss icon] – iOS/Android/Web
 
 ### 加密货币
 
@@ -416,7 +416,7 @@
 
 #### 网络封锁相关信息
 
-* [Net4People论坛](https://github.com/net4people/bbs) ⭐ 5,374 | 🐛 554 | 🌐 Python | 📅 2026-01-25 – 针对翻墙工具开发者和研究人员的技术论坛
+* [Net4People论坛](https://github.com/net4people/bbs) ⭐ 5,383 | 🐛 554 | 🌐 Python | 📅 2026-01-25 – 针对翻墙工具开发者和研究人员的技术论坛
 * 测试网站是否被 GFW 封锁
   * [GreatFire Blocky](https://blocky.greatfire.org/) – Web
   * [comparitech - blockedinchina](https://www.comparitech.com/privacy-security-tools/blockedinchina/) – Web
@@ -528,9 +528,9 @@ credit: <https://t.me/iyouport/6597>
 #### 隐私强化前端
 
 * YouTube
-  * [Invidious](https://github.com/iv-org/invidious) ⭐ 26,169 | 🐛 477 | 🌐 Crystal | 📅 2026-11-27![Open-Source Software][oss icon]
+  * [Invidious](https://github.com/iv-org/invidious) ⭐ 26,169 | 🐛 478 | 🌐 Crystal | 📅 2026-11-27![Open-Source Software][oss icon]
     * [Invidious 公共实例列表](https://docs.invidious.io/Invidious-Instances.md)
-  * [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,577 | 🐛 285 | 🌐 Vue | 📅 2026-11-27![Open-Source Software][oss icon]
+  * [FreeTube](https://github.com/FreeTubeApp/FreeTube) ⭐ 22,588 | 🐛 285 | 🌐 Vue | 📅 2026-11-27![Open-Source Software][oss icon]
 * Twitter
   * [Nitter](https://github.com/zedeus/nitter) ⚠️ Archived![Open-Source Software][oss icon]
     * [Nitter 公共实例列表](https://github.com/zedeus/nitter/wiki/Instances) ⚠️ Archived
@@ -538,8 +538,8 @@ credit: <https://t.me/iyouport/6597>
   * [Bibliogram](https://sr.ht/~cadence/bibliogram/)![Open-Source Software][oss icon]
     * [Bibliogram 公共实例列表](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
 * Tiktok
-  * [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,157 | 🐛 51 | 🌐 PHP | 📅 2025-05-31![Open-Source Software][oss icon]
-    * [ProxiTok 公共实例列表](https://github.com/pablouser1/ProxiTok/wiki/Public-instances) ⭐ 2,157 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
+  * [ProxiTok](https://github.com/pablouser1/ProxiTok) ⭐ 2,156 | 🐛 51 | 🌐 PHP | 📅 2025-05-31![Open-Source Software][oss icon]
+    * [ProxiTok 公共实例列表](https://github.com/pablouser1/ProxiTok/wiki/Public-instances) ⭐ 2,156 | 🐛 51 | 🌐 PHP | 📅 2025-05-31
 * Reddit
   * [Libreddit](https://github.com/spikecodes/libreddit#instances) ⭐ 5,198 | 🐛 195 | 🌐 Rust | 📅 2025-02-15![Open-Source Software][oss icon]
     * [Libreddit 公共实例列表](https://github.com/spikecodes/libreddit#instances) ⭐ 5,198 | 🐛 195 | 🌐 Rust | 📅 2025-02-15
@@ -554,12 +554,12 @@ credit: <https://t.me/iyouport/6597>
 
 #### 搜索引擎
 
-* [SearX](https://github.com/searx/searx) ⭐ 13,569 | 🐛 336 | 🌐 Python | 📅 2026-05-14![Open-Source Software][oss icon]
+* [SearX](https://github.com/searx/searx) ⭐ 13,570 | 🐛 336 | 🌐 Python | 📅 2026-05-14![Open-Source Software][oss icon]
   * [SearX 公共实例列表](https://searx.space/)
 * [Whoogle](https://github.com/benbusby/whoogle-search) ⚠️ Archived![Open-Source Software][oss icon] – Google 搜索的去 Javascript 前端
   * [Whoogle 公共实例列表](https://github.com/benbusby/whoogle-search#public-instances) ⚠️ Archived
-* [LibreX](https://github.com/hnhx/librex) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01![Open-Source Software][oss icon] – 尊重隐私、支持搜索 Google 和 BT 种子站点的元搜索引擎
-  * [LibreX 公共实例列表](https://github.com/hnhx/librex/#instances) ⭐ 844 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
+* [LibreX](https://github.com/hnhx/librex) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01![Open-Source Software][oss icon] – 尊重隐私、支持搜索 Google 和 BT 种子站点的元搜索引擎
+  * [LibreX 公共实例列表](https://github.com/hnhx/librex/#instances) ⭐ 845 | 🐛 23 | 🌐 PHP | 📅 2024-08-01
 * [DuckDuckGo](https://duckduckgo.com/)
 * [Startpage](https://www.startpage.com/)
 
@@ -596,8 +596,8 @@ credit: <https://t.me/iyouport/6597>
 
 #### 翻译
 
-* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,861 | 🐛 136 | 🌐 Python | 📅 2026-11-25![Open-Source Software][oss icon]
-  * [LibreTranslate 公共实例列表](https://github.com/LibreTranslate/LibreTranslate#mirrors) ⭐ 17,861 | 🐛 136 | 🌐 Python | 📅 2026-11-25
+* [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) ⭐ 17,873 | 🐛 138 | 🌐 Python | 📅 2026-11-25![Open-Source Software][oss icon]
+  * [LibreTranslate 公共实例列表](https://github.com/LibreTranslate/LibreTranslate#mirrors) ⭐ 17,873 | 🐛 138 | 🌐 Python | 📅 2026-11-25
 * [SimplyTranslate](https://git.sr.ht/~metalune/simplytranslate_web)![Open-Source Software][oss icon]
   * [SimplyTranslate 公共实例列表](https://git.sr.ht/~metalune/simplytranslate_web#list-of-instances)
 
@@ -638,7 +638,7 @@ credit: <https://t.me/iyouport/6597>
 
 #### 学术资源
 
-* [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) ⭐ 39,898 | 🐛 0 | 🌐 CSS | 📅 2026-11-26 – 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+* [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) ⭐ 39,918 | 🐛 0 | 🌐 CSS | 📅 2026-11-27 – 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 * [Z-Library](https://singlelogin.me) – 电子书/期刊论文
   * [book-searcher](https://github.com/book-searcher-org/book-searcher)![Open-Source Software][oss icon]
 * [Libgen](https://libgen.is/) – 电子书/期刊论文
@@ -678,7 +678,7 @@ credit: <https://t.me/iyouport/6597>
 ## 参考与鸣谢
 
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⚠️ Archived
-* [android-foss](https://github.com/offa/android-foss) ⭐ 11,800 | 🐛 63 | 🌐 Python | 📅 2026-11-25
+* [android-foss](https://github.com/offa/android-foss) ⭐ 11,808 | 🐛 59 | 🌐 Python | 📅 2026-11-27
 * [learnleft](https://github.com/learnleft/learnleft.github.io) ⭐ 11 | 🐛 0 | 🌐 HTML | 📅 2022-12-20
 * [2047.one/g/2047/entity/Link](https://2047.one/g/2047/entity/Link)
 * [AlternativeTo](https://alternativeto.net)
@@ -694,4 +694,4 @@ credit: <https://t.me/iyouport/6597>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
